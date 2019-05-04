@@ -1,2 +1,3 @@
 # hello-world
-I'm just a noob at GitHub, going through a GitHub Tutorial. Oof
+I'm just a noob at GitHub; this repository is me going through the GitHub Tutorial.
+My name is William Freeman, and I am a Computer Engineering and Computer Science major at Northeastern University, located in Boston, MA. I would consider myself an intermediate level programmer, mostly because I am not yet formally trained in Algorithms and OOP concepts, although I have picked up many of these concepts on my own. In my free time, I code using the Processing environment, mostly making small games and simulations. I am also skilled in Matlab and C++ programming, and by extension, I am also familiar with C programming. I avidly watch the "Coding Train" YouTube channel, so many of my projects are inspired by, if not, directly taken from their channel.
